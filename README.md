@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# NFT Token Staking Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project comes with a contract and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Contract deployed to 0x7De54EF8461B327d99A4065a6B5105bf83f6A445
